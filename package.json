@@ -1,0 +1,9 @@
+{
+  "name": "sidcf-module-marche",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "echo 'Start'",
+    "build": "echo 'Build complete'"
+  }
+}
